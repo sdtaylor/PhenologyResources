@@ -36,3 +36,5 @@ This is a list of software, data, and other resources to use in phenology resear
 
 - **The Plant Phenology Ontology** | [EGU Abstract](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-17614.pdf) -  A new informatics resource for large-scale
 integration of plant phenology data
+
+- **Dataset list on NPN** | [homepage](https://www.usanpn.org/results/dataset-list) - Long list of datasets available by request. Hosted by the National Phenology Network
