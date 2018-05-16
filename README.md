@@ -34,7 +34,7 @@ This is a list of software, data, and other resources to use in phenology resear
 
 - **MCD12Q2** | [homepage](https://lpdaac.usgs.gov/dataset_discovery/modis/modis_products_table/mcd12q2) - The MODIS Land Cover Dynamics product, which includes phenological transition dates (ie. green up/down)
 
-- **The Plant Phenology Ontology** | [EGU Abstract](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-17614.pdf) -  A new informatics resource for large-scale
+- **The Plant Phenology Ontology** | [Paper](https://doi.org/10.3389/fpls.2018.00517) -  A new informatics resource for large-scale
 integration of plant phenology data
 
 - **Dataset list on NPN** | [homepage](https://www.usanpn.org/results/dataset-list) - Long list of datasets available by request. Hosted by the National Phenology Network
