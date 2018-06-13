@@ -13,6 +13,8 @@ This is a list of software, data, and other resources to use in phenology resear
 
 - **Data Retriever** | [github](https://github.com/weecology/retriever) | [homepage](http://www.data-retriever.org/) - Data download tool which includes National Phenology Network access
 
+- **rppo** | [github](https://github.com/ropensci/rppo) - Tool to access NPN, NEON, and PEP725 data in the format of the Plant Phenology Ontology.
+
 ## Modelling software
 - **phenor** | [github](https://github.com/khufkens/phenor) | [homepage](https://khufkens.github.io/phenor/) - A phenology modelling framework in R
 
